@@ -34,7 +34,7 @@ With over a decade of experience in accounting and financial consulting, I’m c
 
 <p align="left">
   <a href="https://www.linkedin.com/in/junior-fernandes1/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/24/ffffff/linkedin.png" alt="LinkedIn" width="24" height="24" />
+    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn" width="24" height="24" />
   </a>
 
 <br/><br/>
